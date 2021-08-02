@@ -18,6 +18,7 @@ print(A[2])
 # Output of A
 
 (10, ‘a’, ‘Name’, 8)
+
 Name
 
 # Lists
