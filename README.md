@@ -1,6 +1,8 @@
 # Tuples-and-Lists
 
-#Tuples: A tuple is a sequence of arbitrary objects separated by commas and enclosed in 
+#Tuples
+
+A tuple is a sequence of arbitrary objects separated by commas and enclosed in 
 parentheses. If the tuple contains a single object, a final comma is required; for 
 example, x = (2,). Tuples support the same operations as strings; they are also 
 immutable (cannot be changed after declaration).
@@ -16,7 +18,9 @@ print(A[2])
 (10, ‘a’, ‘Name’, 8)
 Name
 
-#Lists: A list is similar to a tuple, but it is mutable, so that its elements and length can be 
+#Lists
+
+A list is similar to a tuple, but it is mutable, so that its elements and length can be 
 changed. A list is identified by enclosing it in brackets.
 
 # Store input Lists
