@@ -10,7 +10,9 @@ immutable (cannot be changed after declaration).
 # Store input Tuples
 
 A = (10, “a”, “Name”, 2*4)
+
 print(A)
+
 print(A[2])
 
 # Output of A
@@ -26,14 +28,21 @@ changed. A list is identified by enclosing it in brackets.
 # Store input Lists
 
 L = [5, “k”, “Name”, 1+5]
+
 print(L)
+
 L.append(9)
+
 print(L)
+
 L.pop(2)
+
 print(L)
 
 # Output of L
 
 [5, ‘k’, ‘Name’, 6]
+
 [5, ‘k’, ‘Name’, 6, 9]
+
 [5, ‘k’, 6, 9]
